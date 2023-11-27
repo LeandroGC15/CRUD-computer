@@ -1,0 +1,5 @@
+** Computador Lenovo **
+ID: 5358767195 -- Lenovo
+Nombre ID Procesador Memoria Monitor Teclado Mouse Fuente Disco Placa Persona
+[Lenovo, 5358767195, [' AMD', ' 8', ' erku', ' vit', ' Imex', ' 120', ' 512', ' 800'], Jonathan ]
+******************************
